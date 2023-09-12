@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">A passionate frontend developer from Turkey<br><br>- 🔭 I’m working as a Freelancer<br>- 📚 I'm currently learning and developing React and Vue<br>- ⚡ In my free time I ... Just kidding :) I have no free time</p>
+<p align="left">A passionate frontend developer from Turkey<br><br>- 🔭 I’m working as a Frontend Developer at Regant+<br>- 📚 I'm currently learning and developing React and Vue<br>- ⚡ In my free time I ... Just kidding :) I have no free time</p>
 
 ###
 
