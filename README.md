@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">A passionate frontend developer from Turkey<br><br>- 🔭 I’m working as a Frontend Developer at Surfway<br>- 📚 I'm currently learning and developing React and Vue<br>- ⚡ In my free time I ... Just kidding :) I have no free time</p>
+<p align="left">A passionate software developer from Turkey<br><br>- 🔭 I’m working as a Frontend Developer at Surfway<br>- ⚡ In my free time I ... Just kidding :) I have no free time</p>
 
 ###
 
@@ -33,7 +33,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
   <img width="12" />
