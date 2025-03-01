@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">A passionate software developer from Turkey<br><br>- 🔭 I’m working as a Frontend Developer at Surfway<br>- ⚡ In my free time I ... Just kidding :) I have no free time</p>
+<p align="left">- 🔭 A passionate software developer from Turkey<br>- ⚡ In my free time I ... Just kidding :) I have no free time</p>
 
 ###
 
